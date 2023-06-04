@@ -1112,15 +1112,6 @@
     align-self: center;
     align-items: center;
   }
-  .home-pricing-card{
-    margin-left: 0;
-  }
-  .home-pricing-card1{
-    margin-left: 0;
-  }
-  .home-pricing-card2{
-    margin-left: 0;
-  }
 }
 @media screen and (max-width: 340px){
   .home-header {
@@ -1221,15 +1212,6 @@
     align-content: center;
     align-self: center;
     align-items: center;
-  }
-  .home-pricing-card{
-    margin-left: 0;
-  }
-  .home-pricing-card1{
-    margin-left: 0;
-  }
-  .home-pricing-card2{
-    margin-left: 0;
   }
   .home-pasted-image1{
     width: 280px;
