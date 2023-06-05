@@ -389,7 +389,7 @@
   justify-content: space-between;
 }
 .recept-footer {
-  width: 1920px;
+  width: 100%;
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
   align-self: center;
